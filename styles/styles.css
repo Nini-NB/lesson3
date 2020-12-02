@@ -133,3 +133,37 @@ p {
 .icons-newspage {
 	margin: 41px 0 26px 34px;
 }
+.contact-box {
+	width: 1366px;
+	height: 570px;
+	background-color: #E6E6E6;
+	margin: 27px 0 29px 0;
+}
+.contact-li {
+	display: inline-block;
+	width: 261px;
+	vertical-align: top;
+	margin: 60px 32px 0 87px;
+}
+.map {
+	width: 874px;
+	height: 466px;
+	display: inline-block;
+	margin: 46px 0 58px 0;
+}
+.contact-info {
+	font-size: 20px;
+	color: #3D58A6;
+	font-family: 'BPG Nino Mtavruli Bold';
+}
+.contact-details {
+	font-size: 16px;
+	font-family: 'BPG Ingiri Arial';
+}
+.contact-span {
+	color: #999999;
+}
+.icons-contavtpage {
+	margin: 29px 0 28px 48px;
+}
+
